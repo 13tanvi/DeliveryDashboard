@@ -64,5 +64,5 @@ This project was created as part of a Design Thinking assignment to build a mean
 ---
 
 ## 📌 Author
-Tanvi Sharma
+Tanvi Sharma <br>
 Lakshay Sharma
